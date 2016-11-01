@@ -3,12 +3,11 @@ Referenced Packages/*
 .project
 salesforce.schema
 .env
-dist/debug/*
-dist/*.properties
 .DS_STORE
 node_modules
 envs.json
 .env
-dist/build.xml
 build.properties
 ant-salesforce.jar
+
+
